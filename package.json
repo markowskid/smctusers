@@ -1,0 +1,9 @@
+{
+  "name": "smctusers",
+  "version": "0.0.0",
+  "description": "smctusers",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
